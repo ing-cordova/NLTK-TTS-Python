@@ -23,3 +23,10 @@ pip install --user inscriptis
 ```
 pip install --user gTTS
 ```
+
+3. If you are trying with pyTTSx3, then run this command:
+
+```
+pip install --user pyttsx3
+```
+
